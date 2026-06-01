@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>오늘도 경제</title>
+    <link>https://wowaicbot-bit.github.io/today-economy-podcast/</link>
+    <language>ko-kr</language>
+    <description>한국어 시사·경제 브리핑 팟캐스트</description>
+    <copyright>(c) 2026 wow.ai.cbot</copyright>
+    <ns0:link href="https://wowaicbot-bit.github.io/today-economy-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>wow.ai.cbot</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>한국어 시사·경제 브리핑 팟캐스트</itunes:summary>
+    <item>
+      <title>2026-06-01 오늘도 경제</title>
+      <description>수집: 전체 251개 / 뉴스 183개 / 유튜브 68개
+주요 토픽: 정책·재정·정치경제 69, 기타 66, 증시·투자 47, 반도체·AI·테크 32, 금리·환율·채권 17
+상위 소스: Google News - 한국 경제 종합 97, Google News - 한국 정치 경제 정책 39, Google News - 반도체 AI 수출 21, Google News - 금리 환율 증시 14
+수집 아이템 251개, 경고 6개
+대본 미리보기: 진행자 A:** 안녕하세요! 오늘도 경제입니다. / 진행자 B:** 안녕하세요! 오늘 숫자 진짜 많죠? / 진행자 A:** 많습니다. [[pause:180ms]] 코스피 신고가 [[pause:180ms]] 이재명 정부 취임 일주년 [[pause:180ms]] 미국 엔비디아 칩 봉쇄 [[pause:180ms]] 거기에 이란 협상까지.
+이 방송은 투자 조언이 아니며 모든 판단과 결정은 청취자 본인의 책임입니다.</description>
+      <link>https://wowaicbot-bit.github.io/today-economy-podcast/episodes/podcast-20260601_0710.html</link>
+      <guid isPermaLink="false">https://github.com/wowaicbot-bit/today-economy-podcast/releases/download/podcast-20260601_0710/podcast-20260601_0710.m4a</guid>
+      <pubDate>Mon, 01 Jun 2026 07:10:00 +0000</pubDate>
+      <itunes:duration>08:03</itunes:duration>
+      <enclosure url="https://github.com/wowaicbot-bit/today-economy-podcast/releases/download/podcast-20260601_0710/podcast-20260601_0710.m4a" length="2020107" type="audio/mp4a-latm" />
+    </item>
+  </channel>
+</rss>
